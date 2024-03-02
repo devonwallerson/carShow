@@ -1,0 +1,84 @@
+[
+    {
+        "carID" : 1,
+        "make" : "Mazda",
+        "model" : "3 Hatchback",
+        "trim" : "Turbo Premium Plus",
+        "imageURL" : "src/assets/mazda3.jpg",
+        "availableModels" : "https://www.carfax.com/Used-Mazda-Mazda3-Turbo_t14957"
+    },
+    {
+        "carID" : 2,
+        "make" : "Acura",
+        "model" : "TLX",
+        "trim" : "Technology",
+        "imageURL" : "src/assets/acuratlx.jpg",
+        "availableModels" : "https://www.carfax.com/Used-Acura-TLX-Technology_t6384"
+    },
+    {
+        "carID" : 3,
+        "make" : "BMW",
+        "model" : "228i",
+        "trim" : "",
+        "imageURL" : "src/assets/bmw228i.jpg",
+        "availableModels" : "https://www.carfax.com/Used-BMW-2-Series-New-York-NY_w43_c8636"
+
+    },
+    {
+        "carID" : 4,
+        "make" : "Honda",
+        "model" : "Civic",
+        "trim" : "Sport Touring Hatchback",
+        "imageURL" : "src/assets/hondacivic.jpg",
+        "availableModels" : "https://www.carfax.com/Used-Honda-Civic-Sport-Touring_t10879mer"
+    },
+    {
+        "carID" : 5,
+        "make" : "Honda",
+        "model" : "Accord",
+        "trim" : "2.0T",
+        "imageURL" : "src/assets/hondaaccord.jpg",
+        "availableModels" : "https://www.carfax.com/Used-Honda-Accord-New-York-NY_w299_c8636"
+    },
+    {
+        "carID" : 6,
+        "make" : "Mercedes-Benz",
+        "model" : "CLA250",
+        "trim" : "4 Matic",
+        "imageURL" : "src/assets/cla250.jpg",
+        "availableModels" : "https://www.carfax.com/Used-Mercedes-Benz-CLA-New-York-NY_w464_c8636"
+    },
+    {
+        "carID" : 7,
+        "make" : "Volkswagen",
+        "model" : "Arteon",
+        "trim" : "",
+        "imageURL" : "src/assets/vwarteon.jpg",
+        "availableModels" : "https://www.carfax.com/Used-Volkswagen-Arteon-New-York-NY_w9582_c8636"
+    },
+    {
+        "carID" : 8,
+        "make" : "Ford",
+        "model" : "Mustang",
+        "trim" : "",
+        "imageURL" : "src/assets/fordMustang.jpg",
+        "availableModels" : "https://www.carfax.com/Used-Ford-Mustang-New-York-NY_w247_c8636"
+    },
+    {
+        "carID" : 9,
+        "make" : "Audi",
+        "model" : "A4",
+        "trim" : "Premium Plus",
+        "imageURL" : "src/assets/audia4.jpg",
+        "availableModels" : "https://www.carfax.com/Used-Audi-A4-Premium-Plus_t14067"
+    },
+    {
+        "carID" : 10,
+        "make" : "Lincoln",
+        "model" : "MKZ",
+        "trim" : "",
+        "imageURL" : "src/assets/lincolnmkz.jpg",
+        "availableModels" : "https://www.carfax.com/Used-Lincoln-MKZ-New-York-NY_w430_c8636"
+    }
+    
+]
